@@ -1,0 +1,10 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\bin\Debug\netcoreapp3.1\Exercicio 4.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio 4\Exercicio 4\obj\Debug\netcoreapp3.1\Exercicio 4.pdb

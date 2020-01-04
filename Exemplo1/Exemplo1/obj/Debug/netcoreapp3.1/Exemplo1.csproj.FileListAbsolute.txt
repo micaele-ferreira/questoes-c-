@@ -1,0 +1,10 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.pdb

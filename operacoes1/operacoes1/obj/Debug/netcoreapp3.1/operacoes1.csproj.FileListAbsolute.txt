@@ -1,0 +1,11 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\bin\Debug\netcoreapp3.1\operacoes1.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\bin\Debug\netcoreapp3.1\operacoes1.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\bin\Debug\netcoreapp3.1\operacoes1.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\bin\Debug\netcoreapp3.1\operacoes1.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\bin\Debug\netcoreapp3.1\operacoes1.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\bin\Debug\netcoreapp3.1\operacoes1.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\obj\Debug\netcoreapp3.1\operacoes1.csprojAssemblyReference.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\obj\Debug\netcoreapp3.1\operacoes1.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\obj\Debug\netcoreapp3.1\operacoes1.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\obj\Debug\netcoreapp3.1\operacoes1.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\operacoes1\operacoes1\obj\Debug\netcoreapp3.1\operacoes1.pdb

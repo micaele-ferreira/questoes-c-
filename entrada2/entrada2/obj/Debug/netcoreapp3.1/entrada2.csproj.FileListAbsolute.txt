@@ -1,0 +1,11 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\bin\Debug\netcoreapp3.1\entrada2.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\bin\Debug\netcoreapp3.1\entrada2.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\bin\Debug\netcoreapp3.1\entrada2.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\bin\Debug\netcoreapp3.1\entrada2.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\bin\Debug\netcoreapp3.1\entrada2.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\bin\Debug\netcoreapp3.1\entrada2.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\obj\Debug\netcoreapp3.1\entrada2.csprojAssemblyReference.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\obj\Debug\netcoreapp3.1\entrada2.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\obj\Debug\netcoreapp3.1\entrada2.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\obj\Debug\netcoreapp3.1\entrada2.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\entrada2\entrada2\obj\Debug\netcoreapp3.1\entrada2.pdb

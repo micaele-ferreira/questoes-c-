@@ -1,0 +1,3 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\sbyte\sbyte\obj\Debug\netcoreapp3.1\sbyte.csprojAssemblyReference.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\sbyte\sbyte\obj\Debug\netcoreapp3.1\sbyte.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\sbyte\sbyte\obj\Debug\netcoreapp3.1\sbyte.AssemblyInfo.cs

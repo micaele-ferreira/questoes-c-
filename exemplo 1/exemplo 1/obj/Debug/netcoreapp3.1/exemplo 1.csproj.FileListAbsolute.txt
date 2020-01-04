@@ -1,0 +1,11 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\bin\Debug\netcoreapp3.1\exemplo 1.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\bin\Debug\netcoreapp3.1\exemplo 1.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\bin\Debug\netcoreapp3.1\exemplo 1.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\bin\Debug\netcoreapp3.1\exemplo 1.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\bin\Debug\netcoreapp3.1\exemplo 1.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\bin\Debug\netcoreapp3.1\exemplo 1.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\obj\Debug\netcoreapp3.1\exemplo 1.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\obj\Debug\netcoreapp3.1\exemplo 1.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\obj\Debug\netcoreapp3.1\exemplo 1.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\obj\Debug\netcoreapp3.1\exemplo 1.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\exemplo 1\exemplo 1\obj\Debug\netcoreapp3.1\exemplo 1.csprojAssemblyReference.cache

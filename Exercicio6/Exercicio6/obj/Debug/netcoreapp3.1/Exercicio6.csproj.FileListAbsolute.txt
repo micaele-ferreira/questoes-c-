@@ -1,0 +1,11 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\bin\Debug\netcoreapp3.1\Exercicio6.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.csprojAssemblyReference.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\Exercicio6\Exercicio6\obj\Debug\netcoreapp3.1\Exercicio6.pdb

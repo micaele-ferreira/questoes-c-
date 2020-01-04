@@ -1,0 +1,11 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\obj\Debug\netcoreapp3.1\convercao.csprojAssemblyReference.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\obj\Debug\netcoreapp3.1\convercao.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\obj\Debug\netcoreapp3.1\convercao.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\bin\Debug\netcoreapp3.1\convercao.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\bin\Debug\netcoreapp3.1\convercao.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\bin\Debug\netcoreapp3.1\convercao.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\bin\Debug\netcoreapp3.1\convercao.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\bin\Debug\netcoreapp3.1\convercao.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\bin\Debug\netcoreapp3.1\convercao.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\obj\Debug\netcoreapp3.1\convercao.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\convercao\convercao\obj\Debug\netcoreapp3.1\convercao.pdb

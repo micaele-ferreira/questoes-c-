@@ -1,0 +1,10 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\bin\Debug\netcoreapp3.1\concatenação.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\bin\Debug\netcoreapp3.1\concatenação.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\bin\Debug\netcoreapp3.1\concatenação.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\bin\Debug\netcoreapp3.1\concatenação.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\bin\Debug\netcoreapp3.1\concatenação.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\bin\Debug\netcoreapp3.1\concatenação.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\obj\Debug\netcoreapp3.1\concatenação.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\obj\Debug\netcoreapp3.1\concatenação.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\obj\Debug\netcoreapp3.1\concatenação.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\concatenação\concatenação\obj\Debug\netcoreapp3.1\concatenação.pdb

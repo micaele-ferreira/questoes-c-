@@ -1,0 +1,11 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\bin\Debug\netcoreapp3.1\COMANDOS.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\bin\Debug\netcoreapp3.1\COMANDOS.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\bin\Debug\netcoreapp3.1\COMANDOS.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\bin\Debug\netcoreapp3.1\COMANDOS.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\bin\Debug\netcoreapp3.1\COMANDOS.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\bin\Debug\netcoreapp3.1\COMANDOS.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\obj\Debug\netcoreapp3.1\COMANDOS.csprojAssemblyReference.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\obj\Debug\netcoreapp3.1\COMANDOS.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\obj\Debug\netcoreapp3.1\COMANDOS.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\obj\Debug\netcoreapp3.1\COMANDOS.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\COMANDOS\COMANDOS\obj\Debug\netcoreapp3.1\COMANDOS.pdb

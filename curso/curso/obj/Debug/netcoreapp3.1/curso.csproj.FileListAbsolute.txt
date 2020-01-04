@@ -1,0 +1,11 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\bin\Debug\netcoreapp3.1\curso.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\bin\Debug\netcoreapp3.1\curso.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\bin\Debug\netcoreapp3.1\curso.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\bin\Debug\netcoreapp3.1\curso.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\bin\Debug\netcoreapp3.1\curso.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\bin\Debug\netcoreapp3.1\curso.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\obj\Debug\netcoreapp3.1\curso.csprojAssemblyReference.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\obj\Debug\netcoreapp3.1\curso.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\obj\Debug\netcoreapp3.1\curso.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\obj\Debug\netcoreapp3.1\curso.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\curso\curso\obj\Debug\netcoreapp3.1\curso.pdb

@@ -1,0 +1,10 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.pdb

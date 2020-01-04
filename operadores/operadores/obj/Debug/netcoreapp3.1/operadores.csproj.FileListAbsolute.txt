@@ -1,0 +1,11 @@
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.exe
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.deps.json
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.runtimeconfig.json
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.runtimeconfig.dev.json
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\bin\Debug\netcoreapp3.1\operadores.pdb
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.csprojAssemblyReference.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.AssemblyInfoInputs.cache
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.AssemblyInfo.cs
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.dll
+C:\Users\Micaele\Documents\C# primeiro projeto\operadores\operadores\obj\Debug\netcoreapp3.1\operadores.pdb
